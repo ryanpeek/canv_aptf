@@ -1,0 +1,11 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# if a mac user, else Thumbs.db
+.DS_Store 
+
+blogdown
+#public/ if using netlify
+
