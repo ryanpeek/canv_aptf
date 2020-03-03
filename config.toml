@@ -1,5 +1,5 @@
 title = "California-Nevada Amphibian Populations Task Force"
-baseURL = "https://canv_aptf.github.io/"
+baseURL = "https://www.canvamphibs.org/"
 languageCode = "en-us"
 theme = "gohugo-theme-ananke"
 
@@ -9,7 +9,7 @@ SectionPagesMenu = "main"
 Paginate = 6 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = ""
 enableRobotsTXT = true
-ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+#ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 
 [sitemap]
@@ -21,10 +21,10 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   favicon = ""
   description = "A working group to facilitate communication among amphibian-focused individuals"
   facebook = ""
-  twitter = "https://twitter.com/GoHugoIO"
+  twitter = ""
   instagram = ""
   youtube = ""
-  github = ""
+  github = "https://github.com/ryanpeek/canv_aptf"
   gitlab = ""
   linkedin = ""
   mastodon = ""

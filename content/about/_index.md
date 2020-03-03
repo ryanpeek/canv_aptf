@@ -1,6 +1,6 @@
 ---
 description: 'APTF Annual Meetings'
-featured_image: images/rabo_A_P1060730.jpg
+featured_image: /images/rabo_A_P1060730.jpg
 title: About
 ---
 {{< figure src="/images/IMG_0241.JPG" title="Batrachoseps (Humboldt County)" >}}
