@@ -7,7 +7,9 @@ title: Contact
 type: page
 ---
 
+For more info or to be added to the email list, please contact Dave Bradford (canv.aptf *AT* gmail.com).
 
-This is an example of a custom shortcode that you can put right into your content. You will need to add a form action to the the shortcode to make it work. Check out [Formspree](https://formspree.io/) for a simple, free form service. 
+Interested in getting involved? Please fill out this form!
 
-{{< form-contact action="https://example.com"  >}}
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdbihbwvEKF8ys8wRlsHQ--7weYHw4bcIfJJiEmC2zdyMPaCw/viewform?embedded=true" width="640" height="863" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+
