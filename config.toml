@@ -1,5 +1,5 @@
 title = "California-Nevada Amphibian Populations Task Force"
-baseURL = "https://www.canvamphibs.org/"
+baseURL = "http://www.canvamphibs.org/"
 languageCode = "en-us"
 theme = "gohugo-theme-ananke"
 
