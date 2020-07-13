@@ -2,49 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CA/NV Amphibian Populations Task Force on California-Nevada Amphibian Populations Task Force</title>
-    <link>/</link>
+    <link>https://www.canvamphibs.org/</link>
     <description>Recent content in CA/NV Amphibian Populations Task Force on California-Nevada Amphibian Populations Task Force</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 13 Jul 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.canvamphibs.org/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>2021 Annual Meeting Cancelled</title>
-      <link>/post/2020-07-13/</link>
+      <link>https://www.canvamphibs.org/post/2020-07-13/</link>
       <pubDate>Mon, 13 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>/post/2020-07-13/</guid>
+      <guid>https://www.canvamphibs.org/post/2020-07-13/</guid>
       <description>It is with deep regret that we have decided to cancel the annual meeting scheduled for January 14-15, 2021 in Sebastopol, CA. It seems highly unlikely that covid-19 circumstances will improve fast enough for us to have time to plan the meeting and for attendees to make commitments. We look forward to meeting in 2021.</description>
     </item>
     
     <item>
       <title>New APTF Website!</title>
-      <link>/post/2020-03-01/</link>
+      <link>https://www.canvamphibs.org/post/2020-03-01/</link>
       <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>/post/2020-03-01/</guid>
+      <guid>https://www.canvamphibs.org/post/2020-03-01/</guid>
       <description>We&amp;rsquo;ve made some updates. We hope you like our new(t) website. Stay tuned for more changes and updates to this site.</description>
     </item>
     
     <item>
       <title>Annual Meetings</title>
-      <link>/annual_meetings/</link>
+      <link>https://www.canvamphibs.org/annual_meetings/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/annual_meetings/</guid>
+      <guid>https://www.canvamphibs.org/annual_meetings/</guid>
       <description>Upcoming Meeting 2021 Meeting: Cancelled.
 Previous Meetings   2020 Meeting - San Diego, California 2019 Meeting - Arcata, California 2018 Meeting - Auburn, California 2017 Meeting - Santa Barbara, California 2016 Meeting - Davis, California 2015 Meeting - Malibu, California 2014 Meeting - Beatty, Nevada 2013 Meeting - Arcata, California 2012 Meeting - Placerville, California 2011 Meeting - Yosemite National Park, California 2010 Meeting - No Meeting Held 2009 Meeting - Bodega Bay, California 2008 Meeting - San Diego, California 2007 Meeting - Las Vegas, Nevada 2006 Meeting - Arcata, California 2005 Meeting - Berkeley, California 2004 Meeting - Reno, Nevada 2003 Meeting - Sacramento, CA 2002 Meeting - San Diego, CA 2001 Meeting - Sacramento, CA  </description>
     </item>
     
     <item>
       <title>Join</title>
-      <link>/contact/</link>
+      <link>https://www.canvamphibs.org/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/contact/</guid>
+      <guid>https://www.canvamphibs.org/contact/</guid>
       <description>Interested in joining our email list/getting involved? Please fill out the form below!</description>
     </item>
     
