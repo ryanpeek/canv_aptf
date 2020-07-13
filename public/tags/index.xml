@@ -6,10 +6,19 @@
     <description>Recent content in Tags on California-Nevada Amphibian Populations Task Force</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>annual-meeting</title>
+      <link>/tags/annual-meeting/</link>
+      <pubDate>Mon, 13 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/annual-meeting/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>newt</title>
@@ -21,11 +30,11 @@
     </item>
     
     <item>
-      <title>frog</title>
-      <link>/tags/frog/</link>
-      <pubDate>Sat, 29 Feb 2020 00:00:00 +0000</pubDate>
+      <title>website</title>
+      <link>/tags/website/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>/tags/frog/</guid>
+      <guid>/tags/website/</guid>
       <description></description>
     </item>
     

@@ -10,9 +10,7 @@ type: page
 
 ## Upcoming Meeting
 
-**2021 Meeting**: January 14-15, Sonoma County, California. 
-Exact location to be determined.       
-
+**2021 Meeting**: Cancelled.
 
 ## Previous Meetings <i class="fas fa-frog"></i>
 
