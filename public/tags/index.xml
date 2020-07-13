@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on California-Nevada Amphibian Populations Task Force</title>
-    <link>https://www.canvamphibs.org/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on California-Nevada Amphibian Populations Task Force</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 13 Jul 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://www.canvamphibs.org/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>annual-meeting</title>
-      <link>https://www.canvamphibs.org/tags/annual-meeting/</link>
+      <link>/tags/annual-meeting/</link>
       <pubDate>Mon, 13 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://www.canvamphibs.org/tags/annual-meeting/</guid>
+      <guid>/tags/annual-meeting/</guid>
       <description></description>
     </item>
     
     <item>
       <title>newt</title>
-      <link>https://www.canvamphibs.org/tags/newt/</link>
+      <link>/tags/newt/</link>
       <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://www.canvamphibs.org/tags/newt/</guid>
+      <guid>/tags/newt/</guid>
       <description></description>
     </item>
     
     <item>
       <title>website</title>
-      <link>https://www.canvamphibs.org/tags/website/</link>
+      <link>/tags/website/</link>
       <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://www.canvamphibs.org/tags/website/</guid>
+      <guid>/tags/website/</guid>
       <description></description>
     </item>
     
