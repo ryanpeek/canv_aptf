@@ -4,13 +4,20 @@ title: Annual Meetings
 ---
 
 
-## Upcoming Meeting
+# Upcoming Meeting
 
 **2021 Meeting**: Cancelled.
 
-## Previous Meetings <i class="fas fa-frog"></i>
+___
 
- - 2020 Meeting - [San Diego, California](/pdfs/meetings/2020_APTF_Agenda_Final.pdf)
+
+## Previous Meetings
+
+<div style="text-align: left;">
+
+ - 2020 Meeting: San Diego, California
+   - [Agenda](/pdfs/2020_APTF_Agenda_Final.pdf "Download pdf!")  
+   - [Abstracts](/pdfs/2020_APTF_Abstracts.pdf)  
  - 2019 Meeting - Arcata, California
  - 2018 Meeting - Auburn, California
  - 2017 Meeting - Santa Barbara, California
@@ -30,6 +37,5 @@ title: Annual Meetings
  - 2003 Meeting - Sacramento, CA
  - 2002 Meeting - San Diego, CA
  - 2001 Meeting - Sacramento, CA
- 
- 
 
+</div>

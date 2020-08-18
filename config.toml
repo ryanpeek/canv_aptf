@@ -22,6 +22,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [params]
   favicon = ""
+  site_logo = "favicon.ico"
   description = "A working group to facilitate communication among amphibian-focused individuals"
   facebook = ""
   twitter = ""
