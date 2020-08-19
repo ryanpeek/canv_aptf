@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "California/Nevada APTF"
+title = ""
 
 # Hero image (optional). Enter filename of an image in the `static/media/` folder.
 hero_media = ""
@@ -51,4 +51,17 @@ hero_media = ""
 #   label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-**A forum for amphibian professionals in CA and NV**
+
+*A forum for amphibian professionals in CA and NV*
+
+
+<br>
+<br>
+
+<br>
+<br>
+
+<br>
+<br>
+
+
