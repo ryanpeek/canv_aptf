@@ -5,6 +5,7 @@
 
 # if a mac user, else Thumbs.db
 .DS_Store 
+Thumbs.db
 
 # blogdown
 # if using netlify

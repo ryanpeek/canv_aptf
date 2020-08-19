@@ -1,8 +1,7 @@
 ---
-date: "2017-03-02T12:00:00-05:00"
-featured_image: /images/rabo_eggs_P1150970.JPG
+header:
+  caption: ""
+  image: ""
 title: Posts
-description: Recent Articles & Posts
+view: 2
 ---
-
-Recent articles & posts.
