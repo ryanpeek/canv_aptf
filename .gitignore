@@ -11,3 +11,6 @@ Thumbs.db
 # if using netlify
 public/ 
 
+.Rprofile
+
+
