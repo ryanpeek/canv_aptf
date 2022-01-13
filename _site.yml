@@ -2,7 +2,7 @@ name: "canv_aptf"
 title: 'CA-NV APTF'
 description: |
   "California-Nevada Amphibian Population Task Force"
-output_dir: "."
+output_dir: "_site"
 favicon: static/favicon.ico
 base_url: https://www.canvamphibs.org/
 navbar:
