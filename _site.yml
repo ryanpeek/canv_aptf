@@ -17,6 +17,10 @@ navbar:
       href: about.html
     - text: "Join"
       href: join.html
+    - text: "Posts"
+      href: posts_home.html
+    - icon: fa fa-rss
+      href: index.xml
     - icon: fab fa-github-alt fa-1x
       href: https://github.com/ryanpeek/canv_aptf
 output: 
@@ -25,3 +29,8 @@ output:
     css: styles.css
 repository_url: https://github.com/ryanpeek/canv_aptf
 source_url: true
+collections:
+  posts:
+    categories: true
+    categories_metadata: false
+    authors_metadata: false

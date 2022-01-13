@@ -1,0 +1,33 @@
+---
+title: "Website Updates"
+description: |
+  Website overhaul...
+date: 2022-01-12
+preview: 
+output:
+  distill::distill_article:
+    self_contained: false
+draft: false
+categories:
+  - website
+  - updates
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+library(here)
+```
+
+The website has been in dire need of some maintenance, and updates. We are currently using a much simpler format to make updates and management easier to do. 
+
+The website is built entirely using the **Distill** Rmarkdown format, hosted on Github and deployed by Netlifly. Distill is a publication format for scientific and technical writing, native to the web. Learn more about using Distill at <https://rstudio.github.io/distill>.
+
+
+**_Rana boylii_ (Placer County, R. Peek)**
+
+```{r, out.width='40%'}
+knitr::include_graphics(here("img/rabo_eggs_P1150970.jpg"))
+```
+
+
