@@ -1,0 +1,27 @@
+name: "canv_aptf"
+title: 'CA-NV APTF'
+description: |
+  "California-Nevada Amphibian Population Task Force"
+output_dir: "."
+favicon: static/favicon.ico
+base_url: https://www.canvamphibs.org/
+navbar:
+  logo: 
+    image: static/apple-touch-icon.png
+    href: index.html
+  search: false
+  right:
+    - text: "Annual Meetings"
+      href: annual_meetings.html
+    - text: "About"
+      href: about.html
+    - text: "Join"
+      href: join.html
+    - icon: fab fa-github-alt fa-1x
+      href: https://github.com/ryanpeek/canv_aptf
+output: 
+  distill::distill_article:
+    anchor_sections: FALSE
+    css: styles.css
+repository_url: https://github.com/ryanpeek/canv_aptf
+source_url: true
