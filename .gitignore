@@ -2,11 +2,5 @@
 .Rhistory
 .RData
 .Ruserdata
-
-# if a mac user, else Thumbs.db
-.DS_Store 
-
-# blogdown
-# if using netlify
-public/ 
-
+.DS_Store
+Thumbs.db
