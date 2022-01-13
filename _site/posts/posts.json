@@ -10,8 +10,8 @@
       "updates"
     ],
     "contents": "\nThe website has been in dire need of some maintenance, and updates. We are currently using a much simpler format to make updates and management easier to do.\nThe website is built entirely using the Distill Rmarkdown format, hosted on Github and deployed by Netlifly. Distill is a publication format for scientific and technical writing, native to the web. Learn more about using Distill at https://rstudio.github.io/distill.\nRana boylii (Placer County, R. Peek)\n\n\n\n\n\n\n",
-    "preview": {},
-    "last_modified": "2022-01-12T23:45:46-08:00",
+    "preview": "posts/2022-01-12-updates/rabo_eggs_P1150970.jpg",
+    "last_modified": "2022-01-12T23:50:56-08:00",
     "input_file": {}
   }
 ]

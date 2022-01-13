@@ -27,7 +27,7 @@ The website is built entirely using the **Distill** Rmarkdown format, hosted on 
 **_Rana boylii_ (Placer County, R. Peek)**
 
 ```{r, out.width='40%'}
-knitr::include_graphics(here("img/rabo_eggs_P1150970.jpg"))
+knitr::include_graphics("rabo_eggs_P1150970.jpg")
 ```
 
 
