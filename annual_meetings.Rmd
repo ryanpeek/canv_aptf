@@ -9,8 +9,6 @@ library(here)
 
 ```
 
-## Annual Meetings
-
 The CA/NV APTF holds an annual meeting to provide participants an opportunity to share new information and to discuss issues of concern.
 
 # Upcoming Meeting
