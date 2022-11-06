@@ -17,6 +17,7 @@ The CA/NV APTF holds an annual meeting to provide participants an opportunity to
 
 Registration details will be provided soon.  The deadline for early registration and abstracts will be December 15, 2022.
 
+- [Announcement](pdfs/2023_APTF_Announcement.pdf)
 
 ```{r, out.width='40%'}
 
