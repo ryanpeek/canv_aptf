@@ -13,9 +13,7 @@ The CA/NV APTF holds an annual meeting to provide participants an opportunity to
 
 # Upcoming Meeting
 
-**2023 Meeting**: January 12-13, 2023 (Thursday - Friday) at the Sebastopol Community Cultural Center, in Sebastopol, CA.  Associated field trip on Saturday morning, January 14.  The deadline for early registration and abstracts is December 15, 2022.  Additional details are provided in the Announcement.
-
-- [Announcement](pdfs/2023_APTF_Announcement.pdf)
+**2024 Meeting**: January 11-12, 2024 (Thursday - Friday), TBD
 
 ```{r, out.width='40%'}
 
@@ -27,6 +25,9 @@ knitr::include_graphics("static/safari-pinned-tab.svg")
 
 ## *Previous Meetings*
 
+ - 2023 Meeting: Sebastopol, California
+   - [Agenda](pdfs/2023_APTF_Agenda_Final.pdf)
+   - [Abstracts](pdfs/2023_APTF_Abstracts.pdf)
  - 2022 Meeting: Cancelled (pandemic)
  - 2021 Meeting: Cancelled (pandemic)
  - 2020 Meeting: San Diego, California
