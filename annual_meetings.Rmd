@@ -13,7 +13,7 @@ The CA/NV APTF holds an annual meeting to provide participants an opportunity to
 
 # Upcoming Meeting
 
-**2024 Meeting**: January 11-12, 2024 (Thursday - Friday), TBD
+**2024 Meeting**: January 11-12, 2024 (Thursday - Friday), UC Merced, Merced, CA
 
 ```{r, out.width='40%'}
 
