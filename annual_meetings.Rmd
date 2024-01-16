@@ -13,21 +13,14 @@ The CA/NV APTF holds an annual meeting to provide participants an opportunity to
 
 # Upcoming Meeting
 
-**2024 Meeting**: January 11-12, 2024 (Thursday - Friday), UC Merced, Merced, CA
+**2025 Meeting**: CSU Channel Islands, Camarillo, CA
 
- - [Agenda](pdfs/2024_APTF_Agenda_Final.pdf)
- - [Announcement](pdfs/2024_APTF_Announcement.pdf)
-
-```{r, out.width='40%'}
-
-knitr::include_graphics("static/safari-pinned-tab.svg")
-
-```
-
-*photo by R. Peek*
 
 ## *Previous Meetings*
 
+ - 2024 Meeting: UC Merced, Merced, CA
+   - [Agenda](pdfs/2024_APTF_Agenda_Final.pdf)
+   - [Abstracts](pdfs/2024_APTF_Abstracts.pdf)
  - 2023 Meeting: Sebastopol, California
    - [Agenda](pdfs/2023_APTF_Agenda_Final.pdf)
    - [Abstracts](pdfs/2023_APTF_Abstracts.pdf)
