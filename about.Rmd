@@ -23,7 +23,7 @@ knitr::include_graphics("img/rabo_A_P1060730.jpg")
 
 </aside>
 
-The APTF holds an annual meeting to provide participants an opportunity to share new information and to discuss issues of concern. Information and ideas are also distributed via an electronic mailing list. Participation in the group is effected by joining the mailing list and attending the annual meetings. The group is chaired by Dr. David Bradford.
+The APTF holds an annual meeting to provide participants an opportunity to share new information and to discuss issues of concern. Information and ideas are also distributed via an electronic mailing list. Participation in the group is effected by joining the mailing list and attending the annual meetings. The group is chaired by Dr. David Bradford and vice-chaired by Dr. Jef Jaeger.
 
 **_Batrachoseps_ (Humboldt County)**
 
