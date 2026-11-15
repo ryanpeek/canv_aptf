@@ -13,7 +13,10 @@ The CA/NV APTF holds an annual meeting to provide participants an opportunity to
 
 # Upcoming Meeting
 
-**2027 Meeting**: Jan 7--8, Santa Barbara Zoo, Santa Barbara, CA
+<span style="color:#6a5acd;">**2027 Meeting**: Jan 7--8, Santa Barbara Zoo, Santa Barbara, CA</span>
+
+ - **[Announcement](pdfs/2027_APTF_Announcement.pdf)**
+
 
 ## *Previous Meetings*
  - 2026 Meeting: Sierra Nevada Brewery, Chico, CA
