@@ -20,6 +20,7 @@ The California/Nevada Amphibian Populations Task Force (APTF) provides a collabo
 
 We do this by facilitating communication among individuals who conduct scientific investigations, manage natural resources, or influence conservation policy. Information and ideas are also distributed via an electronic mailing list. Participation in the group is effected by [joining the mailing list](join.html) and attending the [annual meetings](annual_meetings.html). The group is chaired by Dr. David Bradford and vice-chaired by Dr. Jef Jaeger.
 
+<span style="color:#6a5acd;">**Please check [Annual Meetings](annual_meetings.html) for recent updates on the 2027 Meeting in Santa Barbara!**</span>
 
 ```{r fig.cap="Pseudacris regilla - R. Peek", out.width='60%'}
 
